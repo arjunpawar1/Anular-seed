@@ -1,0 +1,1 @@
+"# Anular-seed"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/arjunpawar1/Anular-seed.gitgit push -u origin master
